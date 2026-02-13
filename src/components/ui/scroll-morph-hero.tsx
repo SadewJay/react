@@ -127,7 +127,9 @@ const QUOTES = [
     { text: "Whatever you do in this life, it's not legendary, unless your friends are there to see it.", author: "Barney Stinson (How I Met Your Mother)" },
     { text: "The name's Bond, James Bond.", author: "James Bond (Dr. No)" },
     { text: "I'll be back.", author: "The Terminator (The Terminator)" },
-    { text: "Elementary, my dear Watson.", author: "Sherlock Holmes" }
+    { text: "Elementary, my dear Watson.", author: "Sherlock Holmes" },
+    { text: "The first rule of Fight Club is: you do not talk about Fight Club.", author: "Tyler Durden (Fight Club)" },
+    { text: "I AM the danger. A guy opens his door and gets shot, and you think that of me? No! I am the one who knocks!", author: "Walter White (Breaking Bad)" }
 ];
 
 // Helper for linear interpolation
